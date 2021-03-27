@@ -12,9 +12,14 @@ h1 {
 }
 
 h2{
+    font-size: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
     font-size: 20px;
-  margin-left: 5%;
-    margin-bottom: 0%;
+    margin: 5px;
+  
+   
 }
 
 div.box {

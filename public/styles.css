@@ -30,3 +30,9 @@ div.box {
     margin-top: 0%;
     padding: 5px;
 }
+
+table {
+    background-color: slategray;
+    position: relative;
+    padding: 5px;
+}

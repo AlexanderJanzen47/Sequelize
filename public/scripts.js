@@ -77,7 +77,7 @@ async function windowActions(){
   const chart = new CanvasJS.Chart("chartContainer", {
     animationEnabled: true,
     title:{
-      text: "Meal Chart"
+      text: "UMD Dining Hall Meal Graph"
     },
     toolTip: {
       shared: true
